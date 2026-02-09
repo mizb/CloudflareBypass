@@ -44,4 +44,4 @@ jobs:
           build-args: |
             VERSION=${{ steps.version.outputs.VERSION }}
           tags: |
-            mimimimimimimiiii/CBypass:latest
+            mimimimimimimiiii/cbypass:latest
